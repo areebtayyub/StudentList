@@ -17,7 +17,7 @@ public class StudentList {
      */
     public static void main(String[] args) {
         
-        Student[] students = new Student[3];
+        Student[] students = new Student[2];
         Scanner a = new Scanner(System.in);
         for (int i =0;i<students.length;i++){
             System.out.print("Print a student name");
